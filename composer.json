@@ -1,0 +1,12 @@
+{
+    "name": "garis/blt",
+    "authors": [
+        {
+            "name": "Angga Eka Purnama",
+            "email": "anggaekapurnama4@gmail.com"
+        }
+    ],
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.16"
+    }
+}
